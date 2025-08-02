@@ -1,7 +1,6 @@
 #!/bin/bash
-echo root user 
 echo "Hello"
+echo root user
 echo cli user
-echo rebase
 echo waste of time
-echo hired 
+echo rebase
